@@ -1,0 +1,51 @@
+{
+    "name": "lunar lander",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.35",
+        "tag": "v1.12.35",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/f8f5efedd1040f22c4c3f512c3de683ef8cde8cd",
+        "target": "1.12.47",
+        "pxt": "8.5.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#FF007D",
+        "#FF7a00",
+        "#e5FF00",
+        "#2D9F00",
+        "#00FF72",
+        "#0034FF",
+        "#17ABFF",
+        "#C600FF",
+        "#636363",
+        "#7400DB",
+        "#00EFFF",
+        "#DF2929",
+        "#000000"
+    ]
+}
